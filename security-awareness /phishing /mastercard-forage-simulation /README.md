@@ -21,7 +21,7 @@ The goal was to take an "obvious fake" email and make it believable by fixing gr
 ## The Training Presentation
 Based on the data, I designed a 4-slide training presentation tailored specifically for HR and Marketing. The presentation introduces the **P.V.R. Framework** (Pause, Verify, Report) to build a "Human Firewall."
 
-[View the full presentation PDF](presentation.pdf)
+[View the full presentation PDF](presentation-PDF/HR_Marketing_Phishing_Awareness_Training_pdf.pdf)
 
 ## Key Takeaways (The Playbook)
 *   **Psychology over Tech:** Phishing relies on urgency, fear, and authority. 
