@@ -14,7 +14,7 @@ To simulate the responsibilities of a Cybersecurity Analyst Graduate. This invol
 *   **Indicators of Compromise (IOCs):** `.orionlock` file extensions, suspicious overseas IP logins.
 *   **Business Impact:** Addressed regulatory fines, reputational damage, and physical risks to employees due to exposed payroll/PII data.
 
-[📄 View the Full Incident Response Report](https://github.com/agurzil-kutama/Cybersecurity/blob/main/cybersecurity-operations/Orion_Health_Incident_Report.pdf)
+[📄 View the Full Incident Response Report](Orion_Health_Incident_Report.pdf)
 
 ---
 
@@ -31,7 +31,7 @@ To simulate the responsibilities of a Cybersecurity Analyst Graduate. This invol
 3.  **Third-Party Vendor Data Leak (Inherent Risk: HIGH)**
     *   *Mitigation:* Vendor Risk Management (VRM), requiring SOC 2 Type II reports, and Data Loss Prevention (DLP) tools.
 
-[📄 View the Full Risk Assessment Report](https://github.com/agurzil-kutama/Cybersecurity/blob/main/cybersecurity-operations/RetailNova_Risk_Assessment.pdf)
+[📄 View the Full Risk Assessment Report](RetailNova_Risk_Assessment.pdf)
 
 ---
 ## Key Takeaways
