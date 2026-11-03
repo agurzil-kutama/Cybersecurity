@@ -27,11 +27,10 @@ Investigate a simulated escalated compromise. Build the forensic timeline, ident
 | 02:52 | 412 MB exfiltrated to 198.51.100.77 |
 
 ## Evidence
-*   **Terminal Investigation & Timeline:** 
-    ![Terminal Timeline Proof](screenshots/task-09-terminal-timeline-proof.jpg)
-*   **Objectives Completed (Graded Questions):**
-    ![Objectives Completed](screenshots/task-09-objectives-completed.jpg)
 
+| Terminal Investigation & Timeline | Objectives & Graded Questions |
+| :---: | :---: |
+| <img src="screenshots/task-09-terminal-timeline-proof.jpg" width="100%" /> | <img src="screenshots/task-09-objectives-completed.jpg" width="100%" /> |
 ## Conclusion
 The simulated compromise successfully escalated from Lab 07. By analyzing the endpoint logs, I identified the threat actor's persistence (`schtasks`) and exfiltration destination (`198.51.100.77`). 
 
